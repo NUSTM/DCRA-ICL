@@ -1,0 +1,1005 @@
+[
+  {
+        "_id": "0a171a04782299f20620dfe744aaabb9",
+        "creationTime": "2023-10-19 17:16:21",
+        "phoneName": "Apple iPhone 15",
+        "phoneBrand": "Apple",
+        "comment": "美滋滋，超便宜买到的才发布没多久的苹果15，体验了灵动岛，手感超级棒，比我的13流畅一些，可能是内存多的缘故，颜色很漂亮，很喜欢，感谢百亿补贴",
+        "quadList": [
+            {
+                "subject": "Apple iPhone 15",
+                "object": "AppleiPhone 13",
+                "preference": "更好",
+                "sub_brand": "Apple",
+                "obj_brand": "Apple",
+                "gold_category": "OS#PERFORMANCE"
+            }
+        ]
+    },
+    {
+        "_id": "e1e4d33fb3b956437ce243507081eda3",
+        "creationTime": "2024-01-16 22:28:24",
+        "phoneName": "Apple iPhone 15 Pro Max",
+        "phoneBrand": "Apple",
+        "comment": "手感很好，比14轻多了",
+        "quadList": [
+            {
+                "subject": "Apple iPhone 15 Pro Max",
+                "object": "AppleiPhone 14",
+                "preference": "更好",
+                "sub_brand": "Apple",
+                "obj_brand": "Apple",
+                "gold_category": "PHONE#DESIGN"
+            }
+        ]
+    },
+    {
+        "_id": "9bfcce954719fb9ce2656a80ef3463d9",
+        "creationTime": "2023-10-12 10:56:06",
+        "phoneName": "Apple iPhone 15 Pro Max",
+        "phoneBrand": "Apple",
+        "comment": "手机很好，用了两天了，感觉比14轻便，手感也更好。",
+        "quadList": [
+            {
+                "subject": "Apple iPhone 15 Pro Max",
+                "object": "AppleiPhone 14",
+                "preference": "更好",
+                "sub_brand": "Apple",
+                "obj_brand": "Apple",
+                "gold_category": "PHONE#DESIGN"
+            }
+        ]
+    },
+    {
+        "_id": "bde2546e145515b212d200562a97d8c6",
+        "creationTime": "2023-11-11 17:30:54",
+        "phoneName": "Apple iPhone 15 Pro Max",
+        "phoneBrand": "Apple",
+        "comment": "手机很棒.比13好用电池也耐用。",
+        "quadList": [
+            {
+                "subject": "Apple iPhone 15 Pro Max",
+                "object": "AppleiPhone 13",
+                "preference": "更好",
+                "sub_brand": "Apple",
+                "obj_brand": "Apple",
+                "gold_category": "PHONE#USABILITY"
+            }
+        ]
+    },
+   {
+        "_id": "b8d369e591f46282067af82cbb23a5dc",
+        "creationTime": "2023-12-26 10:33:41",
+        "phoneName": "Apple iPhone 15 Pro Max",
+        "phoneBrand": "Apple",
+        "comment": "屏幕显示效果不如13pm，我的是lg屏幕，很糊，差评了，没有差评过。",
+        "quadList": [
+            {
+                "subject": "Apple iPhone 15 Pro Max",
+                "object": "AppleiPhone 13 Pro Max",
+                "preference": "更差",
+                "sub_brand": "Apple",
+                "obj_brand": "Apple",
+                "gold_category": "DISPLAY#QUALITY"
+            }
+        ]
+    },
+    {
+        "_id": "a18ecb69ad8733823d050eee136328a5",
+        "creationTime": "2023-01-19 22:53:56",
+        "phoneName": "华为 nova9 SE",
+        "phoneBrand": "华为（HUAWEI）",
+        "comment": "都nova9了。还不如nova7的功能多。语音不能唤醒小艺，不能启用5G，而且。图片宣传的log和实物的不一样。功能还不如7的好不知道这手机更新了个啥。换了个名字又来买吗。也不知道真假。快递盒子都没有。太粗糙了。",
+        "quadList": [
+            {
+                "subject": "华为 nova9 SE",
+                "object": "华为nova 7",
+                "preference": "更差",
+                "sub_brand": "华为（HUAWEI）",
+                "obj_brand": "华为（HUAWEI）",
+                "gold_category": "PHONE#FEATURES"
+            }
+        ]
+    },
+    {
+        "_id": "1bf791c2240e089630479ee3bd0869ed",
+        "creationTime": "2023-06-20 18:48:28",
+        "phoneName": "华为 nova11",
+        "phoneBrand": "华为（HUAWEI）",
+        "comment": "手机拿回家试用了一天，非常不错比我之前的nova3好用很多，必须五星好评！快递也给力",
+        "quadList": [
+            {
+                "subject": "华为 nova11",
+                "object": "华为nova 3",
+                "preference": "更好",
+                "sub_brand": "华为（HUAWEI）",
+                "obj_brand": "华为（HUAWEI）",
+                "gold_category": "PHONE#USABILITY"
+            }
+        ]
+    },
+    {
+        "_id": "5a1838d2bd1d40cfe5546261ba041b97",
+        "creationTime": "2024-01-02 20:01:05",
+        "phoneName": "华为 Mate60 Pro",
+        "phoneBrand": "华为（HUAWEI）",
+        "comment": "旗舰店老抢不到，加钱先体验了，当地仓没货，天津仓调货发的。手机全新未拆封，背面皮革手感顺滑，总体比mate40Pro稍微大点，系统内存大4g，内存也大一半，那样没内存焦虑，电池容量也更大，充电也更快，感觉更流畅，卫星电话日常暂时用不到，也算一大创新，野外海上求生管用，支持高端国产，早日完全打败果机！",
+        "quadList": [
+            {
+                "subject": "华为 Mate60 Pro",
+                "object": "华为Mate40 Pro",
+                "preference": "更好",
+                "sub_brand": "华为（HUAWEI）",
+                "obj_brand": "华为（HUAWEI）",
+                "gold_category": "MEMORY&STORAGE#QUALITY"
+            },
+            {
+                "subject": "华为 Mate60 Pro",
+                "object": "华为Mate40 Pro",
+                "preference": "更好",
+                "sub_brand": "华为（HUAWEI）",
+                "obj_brand": "华为（HUAWEI）",
+                "gold_category": "BATTERY&POWER#QUALITY"
+            },
+            {
+                "subject": "华为 Mate60 Pro",
+                "object": "华为Mate40 Pro",
+                "preference": "更好",
+                "sub_brand": "华为（HUAWEI）",
+                "obj_brand": "华为（HUAWEI）",
+                "gold_category": "BATTERY&POWER#PERFORMANCE"
+            },
+            {
+                "subject": "华为 Mate60 Pro",
+                "object": "华为Mate40 Pro",
+                "preference": "更好",
+                "sub_brand": "华为（HUAWEI）",
+                "obj_brand": "华为（HUAWEI）",
+                "gold_category": "PHONE#PERFORMANCE"
+            }
+        ]
+    },
+    {
+        "_id": "292cd0c0dd2999b2d9ef97e44276359c",
+        "creationTime": "2023-07-28 19:00:31",
+        "phoneName": "华为 P60",
+        "phoneBrand": "华为（HUAWEI）",
+        "comment": "照片使用 p30pro 拍摄的，洛可可白还是蛮不错的，屏幕不需要把亮度开的太高就可以了，室外显示也很好，P60 比 P30pro 屏幕好很多长时间看短视频不累眼睛，音效不错，声音开大 后壳有共振 和 P50pro 一样，电池使用一天还是够用的，骁龙 8+发热是存在的，总体还是满意的，华为的品控还是比某米好的多，拍照存图时自己会修图，这个有点过分了哈！遗憾的是刚过保价时间就降价💯&hellip;  加油 华为",
+        "quadList": [
+            {
+                "subject": "华为 P60",
+                "object": "华为P30 Pro",
+                "preference": "更好",
+                "sub_brand": "华为（HUAWEI）",
+                "obj_brand": "华为（HUAWEI）",
+                "gold_category": "DISPLAY#QUALITY"
+            },
+            {
+                "subject": "华为 P60",
+                "object": "华为P50 Pro",
+                "preference": "一样",
+                "sub_brand": "华为（HUAWEI）",
+                "obj_brand": "华为（HUAWEI）",
+                "gold_category": "AUDIO DEVICES#PERFORMANCE"
+            }
+        ]
+    },
+    {
+        "_id": "f7e28af8a0a21f59e3a916f3337d6cb2",
+        "creationTime": "2024-01-16 15:01:43",
+        "phoneName": "华为 畅享60",
+        "phoneBrand": "华为（HUAWEI）",
+        "comment": "怎么评？同样8✕128的荣耀20比华为快多了，我只想支持华为，但是事实没有以前的好。",
+        "quadList": [
+            {
+                "subject": "华为 畅享60",
+                "object": "荣耀20",
+                "preference": "更差",
+                "sub_brand": "华为（HUAWEI）",
+                "obj_brand": "荣耀（HONOR）",
+                "gold_category": "PHONE#PERFORMANCE"
+            }
+        ]
+    },
+    {
+        "_id": "b999a1051033a31a45260642dd8fa1b6",
+        "creationTime": "2023-11-07 12:24:08",
+        "phoneName": "荣耀 90 Pro",
+        "phoneBrand": "荣耀（HONOR）",
+        "comment": "这一款手机使用体验太差了，声音质量不如意，运行不流畅。这荣耀的系统反应太慢，&yen;3000的手机，还不如1000多元华为畅享60x好用。",
+        "quadList": [
+            {
+                "subject": "荣耀 90 Pro",
+                "object": "华为畅享 60X",
+                "preference": "更差",
+                "sub_brand": "荣耀（HONOR）",
+                "obj_brand": "华为（HUAWEI）",
+                "gold_category": "PHONE#USABILITY"
+            }
+        ]
+    },
+    {
+        "_id": "10909e5ff4bdad41a924df49709140ab",
+        "creationTime": "2023-04-13 16:17:58",
+        "phoneName": "荣耀 Magic5 至臻版",
+        "phoneBrand": "荣耀（HONOR）",
+        "comment": "mate30pro换过来的，荣耀真是给了我惊喜，续航和m30p一样的顶，运行速度感觉更加极速，外观手感非常商务正合我意，无发热无卡顿大内存，全是优点，值得推荐购买。冲啊",
+        "quadList": [
+            {
+                "subject": "荣耀 Magic5 至臻版",
+                "object": "华为Mate30 Pro",
+                "preference": "一样",
+                "sub_brand": "荣耀（HONOR）",
+                "obj_brand": "华为（HUAWEI）",
+                "gold_category": "BATTERY&POWER#PERFORMANCE"
+            },
+            {
+                "subject": "荣耀 Magic5 至臻版",
+                "object": "华为Mate30 Pro",
+                "preference": "更好",
+                "sub_brand": "荣耀（HONOR）",
+                "obj_brand": "华为（HUAWEI）",
+                "gold_category": "PHONE#PERFORMANCE"
+            }
+        ]
+    },
+    {
+        "_id": "3fb6f5e3067877e46666c8f68a1c01f9",
+        "creationTime": "2023-03-22 13:04:34",
+        "phoneName": "荣耀 Magic5 至臻版",
+        "phoneBrand": "荣耀（HONOR）",
+        "comment": "华为的老用户了 直接从华为换到荣耀magic5很自然没有什么不习惯的。外形外观：低调沉稳的外表  实体店拿着手感要比Pro感觉轻便   属于经典耐看型。屏幕音效：纳米微晶玻璃安全性提高 原装膜手感很棒 实体店里屏幕看起来也要比 IP14系列看起来要舒服   。待机时间：最喜欢的还是这个电池技术  日常使用很满足了。拍照效果：中规中矩 希望可以多多优化。很喜欢这样的荣耀   不是一味堆料  青海湖电池 c1通讯芯片 这些手机最基础的功能得到强化  希望能继续努力。后续的系统更新也希望把手机的拍照和和游戏优化等做的更好！",
+        "quadList": [
+            {
+                "subject": "荣耀 Magic5 至臻版",
+                "object": "荣耀Magic5 Pro",
+                "preference": "更好",
+                "sub_brand": "荣耀（HONOR）",
+                "obj_brand": "荣耀（HONOR）",
+                "gold_category": "PHONE#DESIGN"
+            }
+        ]
+    },
+    {
+        "_id": "18a2a562bc9eae30a165780068981009",
+        "creationTime": "2023-07-22 10:37:25",
+        "phoneName": "荣耀 90",
+        "phoneBrand": "荣耀（HONOR）",
+        "comment": "喜欢这款手机就是看重像数高，拍照清晰度高！昨晚收到拍的照片比平果13的要清楚更多！5G的上网速度也很不错👌，手机轻薄，女孩用也一点不觉得重！喜欢这款冰蓝色，清新时尚！体验感不错哦",
+        "quadList": [
+            {
+                "subject": "荣耀 90",
+                "object": "AppleiPhone 13",
+                "preference": "更好",
+                "sub_brand": "荣耀（HONOR）",
+                "obj_brand": "Apple",
+                "gold_category": "CAMERA#QUALITY"
+            }
+        ]
+    },
+    {
+        "_id": "7f00a6b25969d33509d1f634ab2987b0",
+        "creationTime": "2023-06-05 23:26:32",
+        "phoneName": "荣耀 Magic5",
+        "phoneBrand": "荣耀（HONOR）",
+        "comment": "magic5到手替换原来的magic3，克隆很方便，拍照更强大了。",
+        "quadList": [
+            {
+                "subject": "荣耀 Magic5",
+                "object": "荣耀Magic3",
+                "preference": "更好",
+                "sub_brand": "荣耀（HONOR）",
+                "obj_brand": "荣耀（HONOR）",
+                "gold_category": "CAMERA#GENERAL"
+            }
+        ]
+    },
+    {
+        "_id": "d7b19e9c69345269abf389eec0ae75ad",
+        "creationTime": "2023-11-17 17:23:55",
+        "phoneName": "小米 14 Pro",
+        "phoneBrand": "小米（MI）",
+        "comment": "手机拿到手已经用了差不多一周时间了，各方面表现都很出色。和我原来用的小米11 Ultra在发热方面的表现，有很大的改善。",
+        "quadList": [
+            {
+                "subject": "小米 14 Pro",
+                "object": "小米11 Ultra",
+                "preference": "更好",
+                "sub_brand": "小米（MI）",
+                "obj_brand": "小米（MI）",
+                "gold_category": "COOLING#PERFORMANCE"
+            }
+        ]
+    },
+    {
+        "_id": "f709b3fe78c4edfc9e1ccbd3142f0ff8",
+        "creationTime": "2023-04-30 17:13:42",
+        "phoneName": "小米 13 Ultra",
+        "phoneBrand": "小米（MI）",
+        "comment": "非常值得信赖的品牌，质量有保障，使用几天下来确实比之前的note10p好太多了，唯一的缺点就是单手拿持手感有点怪，确实这个重量分布对手感还是有一定影响的。",
+        "quadList": [
+            {
+                "subject": "小米 13 Ultra",
+                "object": "小米 Redmi Note 10 Pro",
+                "preference": "更好",
+                "sub_brand": "小米（MI）",
+                "obj_brand": "小米（MI）",
+                "gold_category": "PHONE#USABILITY"
+            }
+        ]
+    },
+    {
+        "_id": "4df6a6bbd8fb732ebf420503ca0f7b13",
+        "creationTime": "2023-12-23 12:48:05",
+        "phoneName": "小米 14",
+        "phoneBrand": "小米（MI）",
+        "comment": "小米14果然是同等价位中的最好的手机，手感好，速度快，比原来的红米k30pro好多了。",
+        "quadList": [
+            {
+                "subject": "小米 14",
+                "object": "小米 Redmi K30 Pro",
+                "preference": "更好",
+                "sub_brand": "小米（MI）",
+                "obj_brand": "小米（MI）",
+                "gold_category": "PHONE#GENERAL"
+            }
+        ]
+    },
+    {
+        "_id": "fd6069a07b9f83341b7da0e4c5c305e1",
+        "creationTime": "2023-12-20 12:55:15",
+        "phoneName": "小米 14",
+        "phoneBrand": "小米（MI）",
+        "comment": "犹豫了很久，红米k70和小米14还有vivox100。线下上手体验还是感觉小米14更有质感，之前一直用的大手机，14这个屏幕不大不小，刚刚好，k70上手不够经验，虽然说对比之前k60质感提升明显，但是还是有种傻大粗的感觉，拍照也不行。屏幕虽说是2k但是看起来不通透，小米14不论丛各个角度去考察，都是一部非常全能的机器，质感不错，拍照没啥技巧，成像也很不错。vivo100曲面屏，实在受不了，但是机器还是非常棒，唯一的缺点就是曲面，体验1天小米14整体来说，还是不错的，没啥很顶的，但又没啥短板。不错。续航也不错的。之前担心电池小不够，用一天还是没啥问题的。",
+        "quadList": [
+            {
+                "subject": "小米 14",
+                "object": "小米 Redmi K70",
+                "preference": "更好",
+                "sub_brand": "小米（MI）",
+                "obj_brand": "小米（MI）",
+                "gold_category": "PHONE#QUALITY"
+            },
+            {
+                "subject": "小米 14",
+                "object": "vivo X100",
+                "preference": "更好",
+                "sub_brand": "小米（MI）",
+                "obj_brand": "vivo",
+                "gold_category": "DISPLAY#DESIGN"
+            }
+        ]
+    },
+    {
+        "_id": "a3ab1acb60cfd8cf4b6ea37e3f087f4e",
+        "creationTime": "2023-08-05 12:10:03",
+        "phoneName": "小米 Redmi Note12 Turbo",
+        "phoneBrand": "小米（MI）",
+        "comment": "之前一部k20pro用了几年，也没啥毛病，中度使用电池还有80%的健康度，挺满意。用了一年水果，限制太多，感觉还是安卓适合，惯性入手了红米。手感上比那部强，重量分布更合理，带来了更加舒适的手感。刚开始用，很流畅，希望又能很多年。最后，包装上生产日期7月3日，应该不是618的二手机子吧。",
+        "quadList": [
+            {
+                "subject": "小米 Redmi Note12 Turbo",
+                "object": "小米 Redmi K20 Pro",
+                "preference": "更好",
+                "sub_brand": "小米（MI）",
+                "obj_brand": "小米（MI）",
+                "gold_category": "PHONE#DESIGN"
+            }
+        ]
+    },
+    {
+        "_id": "2cd4d361a240a6c24f433463c3cae3de",
+        "creationTime": "2023-04-27 22:20:37",
+        "phoneName": "小米 13 Ultra",
+        "phoneBrand": "小米（MI）",
+        "comment": "11u换到13u 首先最直接的感受发热少了 系统流畅度也高 拍照更不用说比11u提升多 快门速度更快了！",
+        "quadList": [
+            {
+                "subject": "小米 13 Ultra",
+                "object": "小米11 Ultra",
+                "preference": "更好",
+                "sub_brand": "小米（MI）",
+                "obj_brand": "小米（MI）",
+                "gold_category": "COOLING#PERFORMANCE"
+            },
+            {
+                "subject": "小米 13 Ultra",
+                "object": "小米11 Ultra",
+                "preference": "更好",
+                "sub_brand": "小米（MI）",
+                "obj_brand": "小米（MI）",
+                "gold_category": "OS#PERFORMANCE"
+            },
+            {
+                "subject": "小米 13 Ultra",
+                "object": "小米11 Ultra",
+                "preference": "更好",
+                "sub_brand": "小米（MI）",
+                "obj_brand": "小米（MI）",
+                "gold_category": "CAMERA#GENERAL"
+            },
+            {
+                "subject": "小米 13 Ultra",
+                "object": "小米11 Ultra",
+                "preference": "更好",
+                "sub_brand": "小米（MI）",
+                "obj_brand": "小米（MI）",
+                "gold_category": "CAMERA#PERFORMANCE"
+            }
+        ]
+    },
+    {
+        "_id": "27fb1b9fe5b5e17818a54433cbe3a277",
+        "creationTime": "2023-06-25 08:14:44",
+        "phoneName": "一加 Ace 2",
+        "phoneBrand": "OPPO",
+        "comment": "终于买了心爱的一加ace2，迫不及待打开用了正品全新外观和一加11很像配置差不多价格还便宜性价比很高发货速度很快不错不错值得推荐",
+        "quadList": [
+            {
+                "subject": "OPPO 一加 Ace 2",
+                "object": "OPPO 一加11",
+                "preference": "更好",
+                "sub_brand": "OPPO",
+                "obj_brand": "OPPO",
+                "gold_category": "PHONE#PRICE"
+            },
+            {
+                "subject": "OPPO 一加 Ace 2",
+                "object": "OPPO 一加11",
+                "preference": "一样",
+                "sub_brand": "OPPO",
+                "obj_brand": "OPPO",
+                "gold_category": "PHONE#DESIGN"
+            },
+            {
+                "subject": "OPPO 一加 Ace 2",
+                "object": "OPPO 一加11",
+                "preference": "一样",
+                "sub_brand": "OPPO",
+                "obj_brand": "OPPO",
+                "gold_category": "PHONE#PERFORMANCE"
+            }
+        ]
+    },
+    {
+        "_id": "b8fb118bc5d6d546a1d8c0ae5615db95",
+        "creationTime": "2023-04-05 11:24:30",
+        "phoneName": "一加 Ace 2",
+        "phoneBrand": "OPPO",
+        "comment": "非常满意，运行比我的苹果13还快，续航也比较满意，卖家服务很好，值得点赞。",
+        "quadList": [
+            {
+                "subject": "OPPO 一加 Ace 2",
+                "object": "AppleiPhone 13",
+                "preference": "更好",
+                "sub_brand": "OPPO",
+                "obj_brand": "Apple",
+                "gold_category": "PHONE#PERFORMANCE"
+            }
+        ]
+    },
+    {
+        "_id": "bb0cf90af27067c4cad73ab43a2d4dba",
+        "creationTime": "2023-02-09 10:22:20",
+        "phoneName": "一加 11",
+        "phoneBrand": "OPPO",
+        "comment": "手机外观设计很美，第一次用一加手机，王者，联盟都玩过，散热效果好，最起码的不烫手，屏幕525ppi像素密度，对比了小米，感觉还是这个清晰一点，手机切换静音模式不用解锁，比较方便一点，拍照比苹果13pmx放大要清晰很多，手机运行速度很快，美中不足的就是，防水防尘等级一般，客服说是ip 64，网上参数是ip 54，充电快，续航时间一般",
+        "quadList": [
+            {
+                "subject": "OPPO 一加 11",
+                "object": "AppleiPhone13 Max",
+                "preference": "更好",
+                "sub_brand": "OPPO",
+                "obj_brand": "Apple",
+                "gold_category": "CAMERA#QUALITY"
+            }
+        ]
+    },
+    {
+        "_id": "e2fa59b8706a9318b041f8a6cfb070a3",
+        "creationTime": "2024-01-12 11:16:57",
+        "phoneName": "一加 Ace 3",
+        "phoneBrand": "OPPO",
+        "comment": "比一加ace2 Pro手感更好，屏幕更大一点，打字九字键盘的时候面积更合适手指头了，大电池续航不错！后续用用再看。",
+        "quadList": [
+            {
+                "subject": "OPPO 一加 Ace 3",
+                "object": "OPPO 一加Ace 2 Pro",
+                "preference": "更好",
+                "sub_brand": "OPPO",
+                "obj_brand": "OPPO",
+                "gold_category": "PHONE#DESIGN"
+            },
+            {
+                "subject": "OPPO 一加 Ace 3",
+                "object": "OPPO 一加Ace 2 Pro",
+                "preference": "更好",
+                "sub_brand": "OPPO",
+                "obj_brand": "OPPO",
+                "gold_category": "DISPLAY#DESIGN"
+            }
+        ]
+    },
+    {
+        "_id": "5d3dcfd4bd975e49a782e91487b42511",
+        "creationTime": "2023-12-13 20:44:39",
+        "phoneName": "OPPO Reno11 Pro",
+        "phoneBrand": "OPPO",
+        "comment": "好用，非常好用，续航好掉电慢不容易发热，信号好，屏幕显示色彩不错，清晰，而且对蓝牙耳机的音质优化非常到位，音质也好，够大声。系统比之前用的荣xm5好用多了，三个品牌手机里面唯独这台是最满意的。看视频也非常清晰，拍照色彩还原涂抹感没那么强，兼容各蓝牙外设也没有延迟，目前只发现对米家的手环有一丢丢不兼容，其他正常连接很快。手机和wifi信号居然比我之前荣xm5还好，你信？总之非常流畅，上手就深爱。很多年以前用过oppo觉得不够好，没想到现在能赶上那么多，种草了！以后这个牌子的手机都可以值得信任！",
+        "quadList": [
+            {
+                "subject": "OPPO Reno11 Pro",
+                "object": "荣耀Magic5",
+                "preference": "更好",
+                "sub_brand": "OPPO",
+                "obj_brand": "荣耀（HONOR）",
+                "gold_category": "OS#GENERAL"
+            },
+            {
+                "subject": "OPPO Reno11 Pro",
+                "object": "荣耀Magic5",
+                "preference": "更好",
+                "sub_brand": "OPPO",
+                "obj_brand": "荣耀（HONOR）",
+                "gold_category": "COMMUNICATION#GENERAL"
+            }
+        ]
+    },
+    {
+        "_id": "a9a6d08119865b8a2baf60f0e7ffd700",
+        "creationTime": "2023-11-12 12:48:33",
+        "phoneName": "三星 S23",
+        "phoneBrand": "三星（SAMSUNG）",
+        "comment": "关注了好久这款手机，10月18号在双十一第一波预售活动开始前的半个小时无意间看到了京东的百亿补贴，8+256白色版本4149外增一个三星耳机，立马下单。目前已经用了一个月。续航来说，我不怎么玩游戏，勉勉强强一天用到晚，重度使用者可能要一天两充，充满电需要一个小时十分钟。屏幕素质特别好，比我之前用的苹果12好很多。最大的亮点还是相机，尤其是照片拍摄，长焦镜头拍出来的感觉非常棒（可以参考我上传的图片）。通讯质量也不错，比我之前的苹果12好很多。看电视剧屏幕分辨率还有音效也蛮好的。缺点可能就是手机自带的应用软件里面无法下载一些不常用的软件。还有就是发热问题，刚拿到手的几天，有点烫，但是用了一个星期之后就没有这个问题了，可能是新手机要适应我的用机习惯。总体来说还是挺满意的。",
+        "quadList": [
+            {
+                "subject": "三星 S23",
+                "object": "AppleiPhone 12",
+                "preference": "更好",
+                "sub_brand": "三星（SAMSUNG）",
+                "obj_brand": "Apple",
+                "gold_category": "DISPLAY#QUALITY"
+            },
+            {
+                "subject": "三星 S23",
+                "object": "AppleiPhone 12",
+                "preference": "更好",
+                "sub_brand": "三星（SAMSUNG）",
+                "obj_brand": "Apple",
+                "gold_category": "COMMUNICATION#QUALITY"
+            }
+        ]
+    },
+    {
+        "_id": "f3d17b62ced054abe5d4f83cb87e9e3a",
+        "creationTime": "2023-09-24 17:58:12",
+        "phoneName": "三星 W24",
+        "phoneBrand": "三星（SAMSUNG）",
+        "comment": "说一下比w23的提升之处，今年的24感觉更轻薄，手感好太多。发热相比23控制的更好，折痕也小很多的。相对来说还是比较入手。",
+        "quadList": [
+            {
+                "subject": "三星 W24",
+                "object": "三星W23",
+                "preference": "更好",
+                "sub_brand": "三星（SAMSUNG）",
+                "obj_brand": "三星（SAMSUNG）",
+                "gold_category": "PHONE#DESIGN"
+            },
+            {
+                "subject": "三星 W24",
+                "object": "三星W23",
+                "preference": "更好",
+                "sub_brand": "三星（SAMSUNG）",
+                "obj_brand": "三星（SAMSUNG）",
+                "gold_category": "COOLING#PERFORMANCE"
+            },
+            {
+                "subject": "三星 W24",
+                "object": "三星W23",
+                "preference": "更好",
+                "sub_brand": "三星（SAMSUNG）",
+                "obj_brand": "三星（SAMSUNG）",
+                "gold_category": "DISPLAY#QUALITY"
+            }
+        ]
+    },
+    {
+        "_id": "e040dece4c971927ac0e262dc873eded",
+        "creationTime": "2023-02-24 15:38:31",
+        "phoneName": "三星 S23+",
+        "phoneBrand": "三星（SAMSUNG）",
+        "comment": "买了黑色的手机外观很漂亮，感觉比22好看。简约大方，也比较薄。正在使用中，三星的屏幕显示很不错。看网上评价说续航也不错。今年的23还是比22值得购买。",
+        "quadList": [
+            {
+                "subject": "三星 S23+",
+                "object": "三星 S22",
+                "preference": "更好",
+                "sub_brand": "三星（SAMSUNG）",
+                "obj_brand": "三星（SAMSUNG）",
+                "gold_category": "PHONE#DESIGN"
+            }
+        ]
+    },
+    {
+        "_id": "db5e5de842d4b50db2afe6185fa236a6",
+        "creationTime": "2022-04-05 08:51:30",
+        "phoneName": "三星 S21 FE",
+        "phoneBrand": "三星（SAMSUNG）",
+        "comment": "屏幕清晰度比我的note10+还要清晰，拍照成片率很高，好用。",
+        "quadList": [
+            {
+                "subject": "三星 S21 FE",
+                "object": "三星 Note 10+",
+                "preference": "更好",
+                "sub_brand": "三星（SAMSUNG）",
+                "obj_brand": "三星（SAMSUNG）",
+                "gold_category": "DISPLAY#QUALITY"
+            }
+        ]
+    },
+    {
+        "_id": "2a4769aff547db54c9f8c30241b71275",
+        "creationTime": "2023-06-03 21:07:53",
+        "phoneName": "三星 S23+",
+        "phoneBrand": "三星（SAMSUNG）",
+        "comment": "发货快，物流给力，第二天就收到了。机器很好，运行流畅。外形外观：感觉比S21+重量轻了很多，手拿比较轻松，我不用贴膜，不用保护套，裸机手感才最好。屏幕音效：屏幕效果清晰，音效清晰。。拍照效果：拍照不错，色彩鲜亮，夜间效果提升不少。运行速度：运行速度挺快，打游戏不卡。。非常好，之前都用黑色手机，这回换个白色试试，很好看，推荐购买。",
+        "quadList": [
+            {
+                "subject": "三星 S23+",
+                "object": "三星 S21+",
+                "preference": "更好",
+                "sub_brand": "三星（SAMSUNG）",
+                "obj_brand": "三星（SAMSUNG）",
+                "gold_category": "PHONE#DESIGN"
+            }
+        ]
+    },
+    {
+        "_id": "9d024cf9afb961dbddb207ea6fe89b9c",
+        "creationTime": "2023-04-04 13:03:46",
+        "phoneName": "魅族 20",
+        "phoneBrand": "魅族（meizu）",
+        "comment": "外形外观：质感非常棒，很好看。屏幕音效：屏幕还可以，音效好听。拍照效果：说的过去，感觉和我这17Pro差不多。运行速度：flyme10是真的丝滑啊，完全不卡顿",
+        "quadList": [
+            {
+                "subject": "魅族 20",
+                "object": "魅族17 Pro",
+                "preference": "一样",
+                "sub_brand": "魅族（meizu）",
+                "obj_brand": "魅族（meizu）",
+                "gold_category": "CAMERA#QUALITY"
+            }
+        ]
+    },
+    {
+        "_id": "41117c0805ecc2808807c0d064099a10",
+        "creationTime": "2024-01-20 13:52:36",
+        "phoneName": "魅族 21",
+        "phoneBrand": "魅族（meizu）",
+        "comment": "第一次用魅族果然系统很丝滑，小窗口也太好用了排第一绝对没问题，四边的边框看着特别窄，可以说是遙遥领先的存在了，指纹解锁超声波也很快，最关键这次信号竟然mate60 系统一样强，满意",
+        "quadList": [
+            {
+                "subject": "魅族 21",
+                "object": "华为 Mate 60",
+                "preference": "一样",
+                "sub_brand": "魅族（meizu）",
+                "obj_brand": "华为（HUAWEI）",
+                "gold_category": "COMMUNICATION#GENERAL"
+            }
+        ]
+    },
+    {
+        "_id": "b08f0ed43e85568cf2ce68a8d8dd8451",
+        "creationTime": "2023-07-16 10:28:24",
+        "phoneName": "魅族 20",
+        "phoneBrand": "魅族（meizu）",
+        "comment": "外形外观：纯白背板与面板，非常好看，跟之前的 mx6 一样耐看，因为 mx6 依旧选择回归 flyme。屏幕音效：震感舒适，屏幕正常使用无观感不适。拍照效果：拍照属于中规中矩水平。运行速度：flyme 响应很快，系统流畅舒服。其他特色：纯白！纯白！纯白！。商家送了不少赠品，挺用心的",
+        "quadList": [
+            {
+                "subject": "魅族 20",
+                "object": "魅族MX6",
+                "preference": "一样",
+                "sub_brand": "魅族（meizu）",
+                "obj_brand": "魅族（meizu）",
+                "gold_category": "PHONE#DESIGN"
+            }
+        ]
+    },
+    {
+        "_id": "76c4e1df537ff875b45b1feade779789",
+        "creationTime": "2023-11-15 22:50:01",
+        "phoneName": "魅族 20",
+        "phoneBrand": "魅族（meizu）",
+        "comment": "白面板很好看，颜值好看。。flame很不错，mback第二天就用着回不去了，确实好用。。6.55的屏幕&ldquo;相对&rdquo;比较照顾小手用户。。高刷不错，散热性能也不错，没用过1080p以上的屏幕，从k20p转过来没什么不适。。2k3入的8gen2，要什么自行车。还有金属中框和磨砂玻璃，摸着舒服。。信号很好，比之前k20pro好太多太多。摄像头个人能扫码就行，魅族的镜头设计很简洁，非常喜欢[色]。8gen2对于轻度游戏玩家很友好，西装**手机，该猛就猛。。续航还不错，WiFi环境轻度游戏两小时加刷刷视频b站和软件一天可以亮个七个多小时左右。这波刚好是目标用户了属于是。",
+        "quadList": [
+            {
+                "subject": "魅族 20",
+                "object": "小米 Redmi K20 Pro",
+                "preference": "更好",
+                "sub_brand": "魅族（meizu）",
+                "obj_brand": "小米（MI）",
+                "gold_category": "COMMUNICATION#GENERAL"
+            }
+        ]
+    },
+    {
+        "_id": "4a3f17dde480ab3b532bf804e974ac90",
+        "creationTime": "2023-04-08 23:49:14",
+        "phoneName": "魅族 20",
+        "phoneBrand": "魅族（meizu）",
+        "comment": "没用过2K的屏幕肉眼看着不错，只有用另一部手机拍它的时候视频上20的屏幕才有波纹，重的手机拿习惯了觉得好轻，拍照没试过，用的最多的是扫码。解锁很快，同样都是三千多块的手机比以前买荣耀魔术2的时候用着感觉值多了，小窗很好用。以前从m9开始，现在从20在入坑😄 这价格这系统这配置，值。幸好没选Pro，还以为20是小屏没想到跟我的iQOO一样大。",
+        "quadList": [
+            {
+                "subject": "魅族 20",
+                "object": "荣耀Magic 2",
+                "preference": "更好",
+                "sub_brand": "魅族（meizu）",
+                "obj_brand": "荣耀（HONOR）",
+                "gold_category": "PHONE#PRICE"
+            }
+        ]
+    },
+    {
+        "_id": "214f0319aaeca9ff254b03d93c2efb68",
+        "creationTime": "2023-06-11 19:14:18",
+        "phoneName": "vivo iQOO Neo8",
+        "phoneBrand": "vivo",
+        "comment": "手机拿到手玩了一会儿，运行速度挺快的，质感在两千出头的手机里算好的。买的磨砂黑，不容易沾指纹。neo8配置上较neo7竞速版有增有减，看各人选择。我选择neo8是因为频幕比竞速版好不少。",
+        "quadList": [
+            {
+                "subject": "vivo iQOO Neo8",
+                "object": "vivo iQOO Neo7 竞速版",
+                "preference": "更好",
+                "sub_brand": "vivo",
+                "obj_brand": "vivo",
+                "gold_category": "DISPLAY#GENERAL"
+            }
+        ]
+    },
+    {
+        "_id": "a0884bb2a2bc7fa999f27eecc03ea248",
+        "creationTime": "2024-01-14 18:00:34",
+        "phoneName": "vivo iQOO 12",
+        "phoneBrand": "vivo",
+        "comment": "手机很流畅比我之前的neo5体验好很多，性能没毛病，拍照也非常棒",
+        "quadList": [
+            {
+                "subject": "vivo iQOO 12",
+                "object": "vivo iQOO Neo5",
+                "preference": "更好",
+                "sub_brand": "vivo",
+                "obj_brand": "vivo",
+                "gold_category": "PHONE#PERFORMANCE"
+            }
+        ]
+    },
+    {
+        "_id": "dadcce0705562b5856bbb5798dcfc44f",
+        "creationTime": "2023-12-07 19:40:26",
+        "phoneName": "vivo X100 Pro",
+        "phoneBrand": "vivo",
+        "comment": "新机收到！白月光！包装很好，新机手感很好。。素皮壳一般，但可以用来过度较好的手机壳。。手机的流畅度挺爽的，比我手上的13pro快。不过原机的输入法不习惯，觉得一般。。信号嘛，没得说，苹果用户都知道感觉。。这手机的系统还需要熟悉，不习惯啊。。嗯，幸好我没买华为mate60！",
+        "quadList": [
+            {
+                "subject": "vivo X100 Pro",
+                "object": "AppleiPhone 13 Pro",
+                "preference": "更好",
+                "sub_brand": "vivo",
+                "obj_brand": "Apple",
+                "gold_category": "PHONE#PERFORMANCE"
+            }
+        ]
+    },
+    {
+        "_id": "a30b143f1de4800a8aa47f90eb0f5550",
+        "creationTime": "2023-06-26 17:29:25",
+        "phoneName": "vivo iQOO Neo8",
+        "phoneBrand": "vivo",
+        "comment": "讲实话，这价格我真不要求太多，120w快充，比neo5好的屏幕，8+处理器，比neo5好的散热，12+256内存，这些就足够了。值，这价格这配置，太值了讲实话，这价格我真不要求太多，120w快充，比neo5好的屏幕，8+处理器，比neo5好的散热，12+256内存，这些就足够了。值，这价格这配置，太值了",
+        "quadList": [
+            {
+                "subject": "vivo iQOO Neo8",
+                "object": "vivo iQOO Neo5",
+                "preference": "更好",
+                "sub_brand": "vivo",
+                "obj_brand": "vivo",
+                "gold_category": "DISPLAY#GENERAL"
+            },
+            {
+                "subject": "vivo iQOO Neo8",
+                "object": "vivo iQOO Neo5",
+                "preference": "更好",
+                "sub_brand": "vivo",
+                "obj_brand": "vivo",
+                "gold_category": "COOLING#PERFORMANCE"
+            }
+        ]
+    },
+    {
+        "_id": "03f698c5396505097c7a84739b752ed4",
+        "creationTime": "2023-06-05 20:53:24",
+        "phoneName": "vivo iQOO Neo8",
+        "phoneBrand": "vivo",
+        "comment": "用了跟iQOOneo7se没什么区别，只不过运行内存大了一些。其他都差不多，说不上很好，但是也不错了。",
+        "quadList": [
+            {
+                "subject": "vivo iQOO Neo8",
+                "object": "vivo iQOO Neo7 SE",
+                "preference": "更好",
+                "sub_brand": "vivo",
+                "obj_brand": "vivo",
+                "gold_category": "MEMORY&STORAGE#QUALITY"
+            }
+        ]
+    },
+    {
+        "_id": "f18205358e7feccc362075d40ad970a6",
+        "creationTime": "2022-04-03 11:31:21",
+        "phoneName": "realme GT Neo3",
+        "phoneBrand": "真我（realme）",
+        "comment": "用了几天，很喜欢。。屏幕:还不错。比以前华为nova6好。2k屏没用过，不知道。。系统:和oppo系统一样，比华为系统好用些。特别是黑屏手势好用。。照相:抓拍速度快，颜色偏艳丽。。手感:轻便舒服，比动不动就200g的好",
+        "quadList": [
+            {
+                "subject": "realme GT Neo3",
+                "object": "华为nova 6",
+                "preference": "更好",
+                "sub_brand": "真我（realme）",
+                "obj_brand": "华为（HUAWEI）",
+                "gold_category": "DISPLAY#GENERAL"
+            }
+        ]
+    },
+    {
+        "_id": "d0a77717295206ddeee7286512a07f77",
+        "creationTime": "2023-06-20 21:16:55",
+        "phoneName": "realme GT Neo5",
+        "phoneBrand": "真我（realme）",
+        "comment": "收到了，顺丰很快，很有质感和份量，尤其150W充电器，真是技术在进步，比去年买的Neo3厚重了。",
+        "quadList": [
+            {
+                "subject": "realme GT Neo5",
+                "object": "realmeGT Neo3",
+                "preference": "更好",
+                "sub_brand": "真我（realme）",
+                "obj_brand": "真我（realme）",
+                "gold_category": "BATTERY&POWER#FEATURES"
+            }
+        ]
+    },
+    {
+        "_id": "7906227032718f25fa5efa4171d8c75c",
+        "creationTime": "2023-03-13 19:31:26",
+        "phoneName": "realme GT Neo5",
+        "phoneBrand": "真我（realme）",
+        "comment": "快递很快 两天就到了，手机重量还算可以比13pro轻😂😂😂，系统丝滑流畅，改天试试相机",
+        "quadList": [
+            {
+                "subject": "realme GT Neo5",
+                "object": "AppleiPhone 13 Pro",
+                "preference": "更好",
+                "sub_brand": "真我（realme）",
+                "obj_brand": "Apple",
+                "gold_category": "PHONE#DESIGN"
+            }
+        ]
+    },
+    {
+        "_id": "3557aef706d139085f94a2170a9aa59d",
+        "creationTime": "2023-05-22 07:22:37",
+        "phoneName": "realme 11 Pro+",
+        "phoneBrand": "真我（realme）",
+        "comment": "外形外观：是我喜欢的。屏幕音效：不错。拍照效果：超级棒。运行速度：一般，跟gt大师探索版差不多。。待机时间：还可以",
+        "quadList": [
+            {
+                "subject": "realme 11 Pro+",
+                "object": "realmeGT 大师探索版",
+                "preference": "一样",
+                "sub_brand": "真我（realme）",
+                "obj_brand": "真我（realme）",
+                "gold_category": "PHONE#PERFORMANCE"
+            }
+        ]
+    },
+    {
+        "_id": "aa0d53095f233f07d34fe40fd70f20bf",
+        "creationTime": "2023-06-30 16:17:27",
+        "phoneName": "realme 10 Pro+",
+        "phoneBrand": "真我（realme）",
+        "comment": "外形外观：外观很漂亮，男女都可以，不会显得太突远。。屏幕音效：屏幕漂亮，音效也很棒。。拍照效果：缘素高，感觉很细腻。。运行速度：比两年前的Q3PRO快很多。。待机时间：具体测试后才能具体说。",
+        "quadList": [
+            {
+                "subject": "realme 10 Pro+",
+                "object": "realmeQ3 Pro",
+                "preference": "更好",
+                "sub_brand": "真我（realme）",
+                "obj_brand": "真我（realme）",
+                "gold_category": "PHONE#PERFORMANCE"
+            }
+        ]
+    },
+    {
+        "_id": "aa5e9adedd6c22f5947a04fa2f4c1caa",
+        "creationTime": "2023-11-10 21:32:31",
+        "phoneName": "努比亚 Z50S Pro",
+        "phoneBrand": "努比亚（nubia）",
+        "comment": "这规格，这价位，物超所值。夜拍画质比以前的Z50进步不少。35mm主摄刚开始会有点不习惯，但是相对相关用相机的人来说很容易上手。外观设计很特别，很好看。不过我收到的这台镜头有点偏，虽没有影响拍照但感觉有点不舒服，希望努比亚的质量和品控可以再加强。",
+        "quadList": [
+            {
+                "subject": "努比亚 Z50S Pro",
+                "object": "努比亚Z50",
+                "preference": "更好",
+                "sub_brand": "努比亚（nubia）",
+                "obj_brand": "努比亚（nubia）",
+                "gold_category": "CAMERA#QUALITY"
+            }
+        ]
+    },
+    {
+        "_id": "7d4dccb6333a3e2a1ccc52e5f6f5867e",
+        "creationTime": "2023-02-03 20:55:28",
+        "phoneName": "努比亚 红魔8 Pro+",
+        "phoneBrand": "努比亚（nubia）",
+        "comment": "正面全面屏，颜值高，非常喜欢，背面比之前的红魔系列简洁，好看多了，整体运行流畅，玩游戏很舒服，之前用的中兴axon40u，那个曲屏没这个好用。",
+        "quadList": [
+            {
+                "subject": "努比亚 红魔8 Pro+",
+                "object": "中兴Axon 40 Ultra",
+                "preference": "更好",
+                "sub_brand": "努比亚（nubia）",
+                "obj_brand": "中兴（ZTE）",
+                "gold_category": "DISPLAY#GENERAL"
+            }
+        ]
+    },
+    {
+        "_id": "402b16c9f87bc832b6cf3a1ee5fdcb17",
+        "creationTime": "2023-07-21 23:49:23",
+        "phoneName": "努比亚 红魔8S Pro+",
+        "phoneBrand": "努比亚（nubia）",
+        "comment": "终于等到了红魔8Spro+,之前是黑鲨4PRO，坏了之后最终选择了红魔，全屏显示着实很香，完整屏幕打CFM很爽，关键是有肩键，懂的都懂。颜色，刷新都不错。如果那红魔的左侧手柄也能用就完美了。这充电的速度就比之前用的手机更加快了",
+        "quadList": [
+            {
+                "subject": "努比亚 红魔8S Pro+",
+                "object": "黑鲨4 Pro",
+                "preference": "更好",
+                "sub_brand": "努比亚（nubia）",
+                "obj_brand": "黑鲨",
+                "gold_category": "BATTERY&POWER#PERFORMANCE"
+            }
+        ]
+    },
+    {
+        "_id": "6ed5e5a10377714018a54433cbe3a277",
+        "creationTime": "2023-03-10 18:05:08",
+        "phoneName": "努比亚 红魔8 Pro+",
+        "phoneBrand": "努比亚（nubia）",
+        "comment": "红魔手机是真不错，屏幕清晰流畅，电池非常耐用，充电也非常快，比我的14promax舒服多了，打游戏非常棒，值得推荐",
+        "quadList": [
+            {
+                "subject": "努比亚 红魔8 Pro+",
+                "object": "AppleiPhone 14 Pro Max",
+                "preference": "更好",
+                "sub_brand": "努比亚（nubia）",
+                "obj_brand": "Apple",
+                "gold_category": "PHONE#USABILITY"
+            }
+        ]
+    },
+    {
+        "_id": "8866f9d63a7aadffce040e94d1fb6689",
+        "creationTime": "2023-12-30 11:33:46",
+        "phoneName": "努比亚 Z60 Ultra",
+        "phoneBrand": "努比亚（nubia）",
+        "comment": "外形外观：外观很独特，独一无二，也就这点可吹。屏幕音效：屏幕的显示效果还行，音效方面，只能说这是今年用过的手机中最差的，甚至比魅族20还差了一大截，感觉像是回到了功能机时代，声音刺耳浑浊，所谓的dts音效就是搞笑的，硬件太差，啥音效都没用。拍照效果：后摄中规中矩，前摄一塌糊涂，前摄的效果就像功能机时代的200万像素，虽然买之前做好了心理准备，但没想到差到这种地步。运行速度：8GEN3问题不大。其他特色：我这台应该是摸摸党的退货机，有一些擦拭的痕迹，能用暂且不追究",
+        "quadList": [
+            {
+                "subject": "努比亚 Z60 Ultra",
+                "object": "魅族20",
+                "preference": "更差",
+                "sub_brand": "努比亚（nubia）",
+                "obj_brand": "魅族（meizu）",
+                "gold_category": "AUDIO DEVICES#QUALITY"
+            }
+        ]
+    }
+]
